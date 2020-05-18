@@ -1,2 +1,4 @@
 # hello-world-course
-Just another repository 
+Hi people
+love to learn about datascript abd databases
+Do they even have any affiliation with marinated cheese
